@@ -50,6 +50,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -114,6 +115,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -145,6 +147,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-media-player"
+    }
+  },
+  "defaultProject": "ngx-media-player",
+  "cli": {
+    "analytics": "071082bd-d7d0-425f-8919-b6f90296c49c"
+  }
 }
