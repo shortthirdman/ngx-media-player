@@ -1,4 +1,9 @@
-# NgxMediaPlayer
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/shortthirdman/ngx-media-player)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/shortthirdman/ngx-media-player/lodash)
+![GitHub package.json dependency version](https://img.shields.io/github/package-json/dependency-version/shortthirdman/ngx-media-player/dev/@angular/cli)
+
+
+# Ngx Media Player
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
